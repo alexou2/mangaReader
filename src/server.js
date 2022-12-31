@@ -35,6 +35,7 @@ function readMangaDir(filepath){
           })
         }
     })
+    console.log('\n\nsending to chapter loader\n\n')
+
+  console.log (__dirname, chapterLoader.js)
 }
-
-
