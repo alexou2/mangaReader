@@ -1,3 +1,5 @@
+
+//confirms that file was called (debug only)
 console.log('\n\n\ncreating chapter...\n\n\n')
 
 const { app, BrowserWindow } = require('electron');
