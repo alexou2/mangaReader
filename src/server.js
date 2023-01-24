@@ -36,10 +36,8 @@ function readMangaDir(filepath){
         }
     })
 
-    //(normally) after selecting files, calls function to load the chapter page
-    
-    const chapterLoader = require('./chapterLoader')
-    console.log('\n\nsending to chapter loader\n\n')
+}
 
-  console.log (__dirname, chapterLoader.js)
+function print(text){
+  console.log(`\n\n\n${text}\n\n\n`)
 }
